@@ -1,0 +1,7 @@
+org\example\PacienteServiceTest.class
+org\example\TurnoServiceTests.class
+org\example\ClinicaOdontologicaApplicationTests.class
+org\example\OdontologoServiceTests.class
+org\example\IntegrationPacienteTest.class
+org\example\IntegracionTurnosTest.class
+org\example\IntegracionOdontologoTest.class
